@@ -1,8 +1,7 @@
 # Data-Storage-and-Analytics
 
 
-
-![Login](https://user-images.githubusercontent.com/37260226/89999485-801b9b80-dcac-11ea-9447-227c5d4c79de.png)
+![analytics_storage](https://user-images.githubusercontent.com/37260226/90008777-8153c500-dcba-11ea-902b-06635c8c1e2c.jpg)
 
 
 
