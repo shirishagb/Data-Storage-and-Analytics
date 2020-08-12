@@ -11,7 +11,9 @@ Data storage and analytics is JAVA based Desktop Application designed in such a 
 ## Prerequisites
 
 1.Java (jdk1.8.0_192)
+
 2.MySQL
+
 3.SQLite (3.11.2)
 
 
