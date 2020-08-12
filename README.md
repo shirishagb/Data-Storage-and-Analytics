@@ -1,7 +1,7 @@
 # Data-Storage-and-Analytics
 
 
-![analytics_storage](https://user-images.githubusercontent.com/37260226/90008777-8153c500-dcba-11ea-902b-06635c8c1e2c.jpg)
+![Enterprise-Data-Storage1](https://user-images.githubusercontent.com/37260226/90009010-ea3b3d00-dcba-11ea-9087-bef46033eb7d.jpg)
 
 
 
