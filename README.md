@@ -24,7 +24,7 @@ whenever network is available and to run the server continuously using threads i
 
 
 
-![OnlineStorage](https://user-images.githubusercontent.com/37260226/90020700-d220e900-dccd-11ea-9946-5955f06402ad.png)            
+![OfflineStorage](https://user-images.githubusercontent.com/37260226/90021219-93d7f980-dcce-11ea-8b7a-43af8a17f111.png)        
 
 
 
