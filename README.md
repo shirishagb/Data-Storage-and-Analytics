@@ -23,6 +23,11 @@ The project target is providing a user-friendly interface to the govt. of Sikkim
 whenever network is available and to run the server continuously using threads in java. A web-based approach is used to retrieve the data of student from database so that it will make available on four districts database. The project aims at providing a good user experience of the service to the govt. of Sikkim through the synchronization of data when network is available.
 
 
+
+![OnlineStorage](https://user-images.githubusercontent.com/37260226/90020700-d220e900-dccd-11ea-9946-5955f06402ad.png)            
+
+
+
 - FrontEnd
 
       • Only system administrator can write the data of respective school.
