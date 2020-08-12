@@ -26,10 +26,13 @@ whenever network is available and to run the server continuously using threads i
 - FrontEnd
 
       • Only system administrator can write the data of respective school.
-      • The data entered by system administrator goes to the “Backup System” as well as to the server side, if system has active connection 
-        with server then “updated flag” will indicate successful data updation at both the sides.
-      • It goes to “Backup System” and in “File” and “data updated” flag will indicate data has not yet updated at server side.
-      • Those data which is not yet updated at server side will be updated as soon as system will get active connection to the server.
+      • The data entered by system administrator goes to the “Backup System” as well as to the server side, 
+        if system has active connection with server then “updated flag” will indicate successful data 
+        updation at both the sides.
+      • It goes to “Backup System” and in “File” and “data updated” flag will indicate data has not yet 
+        updated at server side.
+      • Those data which is not yet updated at server side will be updated as soon as system will get 
+        active connection to the server.
 
 - BackEnd
 
