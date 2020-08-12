@@ -34,11 +34,11 @@ whenever network is available and to run the server continuously using threads i
 - BackEnd
 
       • The information of students entered by system administrator goes to server side on connection availability and returns 1 on success and 0 on failure.
-      • The succeeded data as well as failed data goes to “Backup System” and “File” which maintains the failed data and pointer information from which the data has to be               updated.
+      • The succeeded data as well as failed data goes to “Backup System” and “File” which maintains the failed data and pointer information from which the data has to be   updated.
       • For updation of failed data due to unavailability of active connection to the server “sync” function is used.
       • The “sync” function checks for arrival of active connection to server for failed data updation at server side after specific period of time.
-      • As soon as system gets active connection to the server “sync” function reads the “File”, with the help of pointer it reads the failed and write to the server side and           modifies the “updated flag” indicating successful data updation.
-      • In the middle of this process if system looses its connection with server or after completion of this process “sync” function modifies the pointer value up to what data         successfully updated.
+      • As soon as system gets active connection to the server “sync” function reads the “File”, with the help of pointer it reads the failed and write to the server side and modifies the “updated flag” indicating successful data updation.
+      • In the middle of this process if system looses its connection with server or after completion of this process “sync” function modifies the pointer value up to what data  successfully updated.
       • Now the file will contain only failed data that has to be updated and pointers Pointing to appropriate location
 
 
